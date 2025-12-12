@@ -13,7 +13,7 @@ For this project, I utilized Python to answer research questions related to anim
 
 ## Data Source
 
-The data for this project was obtained from a single source: [Dallas County Animal Shelter Data](https://www.dallasopendata.com/resource/uyte-zi7f.json)
+The data for this project was obtained from a single source: [Dallas County Animal Shelter Data](https://www.dallasopendata.com/Services/Dallas-Animal-Shelter-Data-Fiscal-Year-2023-2026/uyte-zi7f)
 
 ## Data Cleaning and Prep
 
