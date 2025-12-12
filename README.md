@@ -15,6 +15,8 @@ For this project, I utilized Python to answer research questions related to anim
 
 The data for this project was obtained from a single source: [Dallas County Animal Shelter Data](https://www.dallasopendata.com/d/uyte-zi7f)
 
+If a 403 error occurs when clicking on the link, please try copying the link and placing directly in your browser. Alternatively, the data can be accessed by visiting the Dallas Open Data homepage and searching for "Dallas Animal Shelter Data Fiscal Year 2023-2026".
+
 ## Data Cleaning and Prep
 
 The dataset was cleaned by removing rows with missing critical data. The data was filtered to meet the needs of this analysis:
